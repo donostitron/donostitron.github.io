@@ -44,8 +44,19 @@ El resultado fueron 6 juegos que han sido incorporados a la máquina DonostiTRON
 
 Todos los juegos creados han buscado que reflexionemos sobre el drama que mucha gente vive alrededor del mundo. 
 
+
+Material Promocional
+--------------------
+
+ * [Cartel del Festival][Cartel_Festival]
+ * [Programa del Festival][Programa_Festival]
+ * [Logotipo DonostiTRON16][Logotipo_Festival]
+
 Recordad que todo el contenido del Festival se ha publicado bajo la licencia Creative [Commons CC-BY 4.0][CCBY40] y esta disponible para todos vosotros en [GitHub].
 
 
 [GitHub]: https://github.com/donostitron/DonostiTRON16
 [CCBY40]: https://creativecommons.org/licenses/by/4.0/
+[Cartel_Festival]: https://github.com/donostitron/DonostiTRON16/raw/master/DonostiTRON16.pdf
+[Programa_Festival]: https://github.com/donostitron/DonostiTRON16/raw/master/DonostiTRON16_Irekita.pdf
+[Logotipo_Festival]: https://github.com/donostitron/DonostiTRON16/raw/master/DonostiTRON16_Logo.pdf

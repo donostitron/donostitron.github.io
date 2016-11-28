@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-11-28T16:28:38+01:00</updated><id>http://localhost:4000//</id><title type="html">DonostiTRON</title><subtitle>DonostiTRON es un proyecto abierto ciudadano creado para dar visibilidad a los videojuegos creados en la ciudad de Donostia-San Sebastián.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-11-28T16:39:24+01:00</updated><id>http://localhost:4000//</id><title type="html">DonostiTRON</title><subtitle>DonostiTRON es un proyecto abierto ciudadano creado para dar visibilidad a los videojuegos creados en la ciudad de Donostia-San Sebastián.
 </subtitle><entry><title type="html">Festival DonostiTRON16 de Videojuegos</title><link href="http://localhost:4000/videojuegos/festival/2016/11/28/DonostiTRON16.html" rel="alternate" type="text/html" title="Festival DonostiTRON16 de Videojuegos" /><published>2016-11-28T15:24:56+01:00</published><updated>2016-11-28T15:24:56+01:00</updated><id>http://localhost:4000/videojuegos/festival/2016/11/28/DonostiTRON16</id><content type="html" xml:base="http://localhost:4000/videojuegos/festival/2016/11/28/DonostiTRON16.html">&lt;p&gt;Hola a todos, el pasado domingo finalizó el Festival DonostiTRON16 de Videojuegos y queremos compartir con todos vosotros la alegría de que todos os lo hayaís pasado tan bien.&lt;/p&gt;
 
 &lt;p&gt;Tenéis disponible para todos los contenidos de las Charlas, Talleres y así como todos los videojuegos realizados durante la gamejam.&lt;/p&gt;
@@ -41,5 +41,13 @@
 &lt;/ul&gt;
 
 &lt;p&gt;Todos los juegos creados han buscado que reflexionemos sobre el drama que mucha gente vive alrededor del mundo.&lt;/p&gt;
+
+&lt;h2 id=&quot;material-promocional&quot;&gt;Material Promocional&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/donostitron/DonostiTRON16/raw/master/DonostiTRON16.pdf&quot;&gt;Cartel del Festival&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/donostitron/DonostiTRON16/raw/master/DonostiTRON16_Irekita.pdf&quot;&gt;Programa del Festival&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/donostitron/DonostiTRON16/raw/master/DonostiTRON16_Logo.pdf&quot;&gt;Logotipo DonostiTRON16&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Recordad que todo el contenido del Festival se ha publicado bajo la licencia Creative &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;Commons CC-BY 4.0&lt;/a&gt; y esta disponible para todos vosotros en &lt;a href=&quot;https://github.com/donostitron/DonostiTRON16&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</content><summary type="html">Hola a todos, el pasado domingo finalizó el Festival DonostiTRON16 de Videojuegos y queremos compartir con todos vosotros la alegría de que todos os lo hayaís pasado tan bien.</summary></entry></feed>
