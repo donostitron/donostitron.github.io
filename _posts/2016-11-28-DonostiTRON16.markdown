@@ -4,9 +4,9 @@ title:  "Festival DonostiTRON16 de Videojuegos"
 date:   2016-11-28 15:24:56 +0100
 categories: videojuegos festival
 ---
-Hola a todos, el pasado domingo finalizó el Festival DonostiTRON16 de Videojuegos y queremos compartir con todos vosotros la alegría de que todos os lo hayaís pasado tan bien.
+El pasado domingo finalizó el Festival DonostiTRON16 de Videojuegos y queremos compartir con todos vosotros la alegría de lo bien que os lo pasastéis.
 
-Tenéis disponible para todos los contenidos de las Charlas, Talleres y así como todos los videojuegos realizados durante la gamejam.
+Ya tenéis disponible todos los contenidos de las Charlas, Talleres y así como los videojuegos realizados durante la gamejam en [GitHub].
 
 Charlas, Viernes 11 de Noviembre 
 --------------------------------
@@ -14,7 +14,7 @@ Charlas, Viernes 11 de Noviembre
   * ["Claves para superar el pánico con la saturación de juegos independientes", Miguel Alva - Screen Implosion](https://github.com/donostitron/DonostiTRON16/raw/master/0_Charlas/Claves_superar_panico_saturacion_juegos_independientes-ScreenImplosion.pdf) 
 
 
-Talleres, Sábado 11 de Noviembre 
+Talleres, Sábado 12 de Noviembre 
 --------------------------------
  * ["Como hacer un 1945 con GameMaker", Alex Martin - Santa Clara Games](https://github.com/donostitron/DonostiTRON16/raw/master/1_Talleres/GameMaker-SCG.zip)
  * ["PixelArt como forma de Representación", Iñaki Martinez - Santa Clara Games](https://github.com/donostitron/DonostiTRON16/raw/master/1_Talleres/PixelArt-SCG.pdf)
@@ -24,15 +24,15 @@ Talleres, Sábado 11 de Noviembre
  * ["Como fallar haciendo un Videojuego", Miguel Alva - Screen Implosion](https://github.com/donostitron/DonostiTRON16/raw/master/1_Talleres/Como_fallar_haciendo_un_juego-Miguel.pdf)
 
 
-GameJam 48 Horas
-----------------
-El viernes 18 de noviembre organizamos un maratón de 48 horas donde los participantes tenían que crear un videojuego alrededor de un tema. Este año el tema principal eran los *Derechos Humanos* y los participantes tenían que escoger uno de los siguientes para su juego:
+GameJam 48 Horas, Viernes 18 ~ Domingo 20 de Noviembre
+------------------------------------------------------
+El viernes 18 de noviembre comenzo el maratón de 48 horas donde los participantes tenían que crear un videojuego alrededor de un tema. Este año el tema principal eran los *Derechos Humanos* y los participantes tuvieron que escoger uno de los siguientes para su juego:
 
  * Pobreza
  * Tráfico de Armas
  * Refugiados
 
-El resultado fueron 6 juegos que han sido incorporados a la máquina DonostiTRON que esta disponible para poder juegarse en el edificio de Tabakalera:
+El resultado fueron 6 juegos que han sido incorporados a la máquina DonostiTRON, la cual esta disponible en el edificio de Tabakalera:
 
  * [Avoid The War](https://github.com/donostitron/DonostiTRON16/tree/master/2_Gamejam/Avoid_The_War)
  * [Freedom](https://github.com/donostitron/DonostiTRON16/tree/master/2_Gamejam/Freedom)
@@ -42,7 +42,7 @@ El resultado fueron 6 juegos que han sido incorporados a la máquina DonostiTRON
  * [Toys R Arms](https://github.com/donostitron/DonostiTRON16/tree/master/2_Gamejam/Toys_R_Arms)
  * [Turban Flee](https://github.com/donostitron/DonostiTRON16/tree/master/2_Gamejam/TurbanFlee)
 
-Todos los juegos creados han buscado que reflexionemos sobre el drama que mucha gente vive alrededor del mundo. 
+Todos los juegos creados han buscado que reflexionemos sobre el drama que mucha gente vive alrededor del planeta. 
 
 
 Material Promocional
@@ -52,7 +52,7 @@ Material Promocional
  * [Programa del Festival][Programa_Festival]
  * [Logotipo DonostiTRON16][Logotipo_Festival]
 
-Recordad que todo el contenido del Festival se ha publicado bajo la licencia Creative [Commons CC-BY 4.0][CCBY40] y esta disponible para todos vosotros en [GitHub].
+Todo el contenido generado para y durante el Festival esta publicado bajo la licencia Creative [Commons CC-BY 4.0][CCBY40] y esta disponible para todos vosotros en [GitHub].
 
 
 [GitHub]: https://github.com/donostitron/DonostiTRON16
