@@ -4,12 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+*DonostiTRON* es un proyecto abierto a la ciudadania puesto en marcha en 2014 por Alex Martín y Daniel Artamendi. La idea se basa en el concepto original del [Torotron](http://handeyesociety.com/torontron/) de la mano de [Hand Eye Society](http://handeyesociety.com/).
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+El objetivo del DonostiTRON es ayudar a dar visibilidad a todos los videojuegos desarrollados en la ciudad de Donostia-San Sebastián. Con ese objetivo el proyecto obtuvo la aprobación en la convocatoria "Plaza" de Hirikilabs en 2014.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+El proyecto se lleva a cabo en las instalaciones de Hirikilabs en Septiembre de 2014 y durante 6 meses varias personas ayudaron a restaurar un vieja máquina arcade donada por Laura Olmedo para poder construir la primera versión del DonostiTRON.
+
+Las personas que contribuyeron en el proyecto a la construcción de la primera máquina DonostiTRON fueron:
+
+  * Alex Martin
+  * Daniel Artamendi
+  * Iñaki Martinez
+  * Iñigo Sainz
+  * Miguel Albors
+  * Saúl 
+  * Xabier González
+
+Actualmente la máquina DonostiTRON se encuentra en el edificio de Tabakalera donde cualquier persona que lo desee puede jugar a los juegos instalados en ella.
+
