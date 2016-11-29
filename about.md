@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About
+title: El Proyecto
 permalink: /about/
 ---
+
+ <img src="/assets/header.png" />
 
 *DonostiTRON* es un proyecto abierto a la ciudadania puesto en marcha en 2014 por Alex Martín y Daniel Artamendi. La idea se basa en el concepto original del [Torotron](http://handeyesociety.com/torontron/) de la mano de [Hand Eye Society](http://handeyesociety.com/).
 

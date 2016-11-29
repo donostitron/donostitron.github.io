@@ -8,6 +8,7 @@ El pasado domingo finalizó el Festival DonostiTRON16 de Videojuegos y queremos 
 
 Ya tenéis disponible todos los contenidos de las Charlas, Talleres y así como los videojuegos realizados durante la gamejam en [GitHub].
 
+
 Charlas, Viernes 11 de Noviembre 
 --------------------------------
   * ["Desde la Idea hasta Steam", Iñaki Martinez - Santa Clara Games](https://github.com/donostitron/DonostiTRON16/raw/master/0_Charlas/Desde_Idea_hasta_Steam-SCG.pdf)
