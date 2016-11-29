@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Festival DonostiTRON16 de Videojuegos"
+title:  "Resumen del Festival #DonostiTRON16 de Videojuegos"
 date:   2016-11-28 15:24:56 +0100
 categories: videojuegos festival
 ---
@@ -45,14 +45,14 @@ El resultado fueron 6 juegos que han sido incorporados a la máquina DonostiTRON
 Todos los juegos creados han buscado que reflexionemos sobre el drama que mucha gente vive alrededor del planeta. 
 
 
-Material Promocional
---------------------
+Material Promocional del Festival
+---------------------------------
 
  * [Cartel del Festival][Cartel_Festival]
  * [Programa del Festival][Programa_Festival]
  * [Logotipo DonostiTRON16][Logotipo_Festival]
 
-Todo el contenido generado para y durante el Festival esta publicado bajo la licencia Creative [Commons CC-BY 4.0][CCBY40] y esta disponible para todos vosotros en [GitHub].
+Todo el contenido generado para y durante el Festival esta publicado bajo la licencia Creative [Commons CC-BY 4.0][CCBY40] y disponible para todos vosotros en [GitHub].
 
 
 [GitHub]: https://github.com/donostitron/DonostiTRON16
